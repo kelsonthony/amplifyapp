@@ -1,3 +1,8 @@
+GraphQL endpoint: https://ihfs3j7gfbf7tdiakdiy4a25nm.appsync-api.us-east-1.amazonaws.com/graphql
+GraphQL API KEY: da2-dldj6wvpdjggbonbkd2yh2l6gi
+
+GraphQL transformer version: 2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,14 @@
+{
+  "resourceName": "devtestdb",
+  "policyUUID": "b0805dc1",
+  "bucketName": "amplifyappfc39c2fd9c184a9e9e69343b3835cea4",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
